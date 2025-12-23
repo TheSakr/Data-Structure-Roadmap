@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "458b52da85b33e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2915e28af8271f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb7f4c38ebc7a5a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ffa3ed7b256637d",
+    "type": "split",
+    "children": [
+      {
+        "id": "938f5e6a66e300f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ab73729e4a237a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cda32c058c42e204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07f1db16e23b7ffb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49293f688ed2350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7705d0ce875e798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "077ffe495e4cb174",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Array/summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for summary"
+            }
+          },
+          {
+            "id": "875178c9ef43a042",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Array/summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from summary"
+            }
+          },
+          {
+            "id": "abc03f878f6880f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5049472bd3e0ddee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dfa98349b1da3f41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Array/summary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of summary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cb7f4c38ebc7a5a5",
+  "lastOpenFiles": [
+    "Array/summary-quiz/summary-quiz/Array Data Structure Summary.pdf",
+    "Array/summary-quiz/summary-quiz/Array MCQ Quiz.pdf",
+    "Array/summary-quiz/quiz.md",
+    "Array/summary-quiz/summary-quiz/summary.md",
+    "Array/summary-quiz/summary-quiz",
+    "Array/summary-quiz/New folder",
+    "Array/summary-quiz/summary.md",
+    "Array/implementation/array-insertAtEnd.cpp",
+    "Array/implementation/array-insertAtposition.cpp",
+    "Array/implementation/array-insertAtBeginning.cpp",
+    "Array/implementation/array-inserting.cpp",
+    "Array/implementation/array-traverse.cpp",
+    "LinkedList/summary-quiz/summary.md",
+    "Array/implementation/array.cpp",
+    "LinkedList/applications/LinkedList_System_Applications.pdf",
+    "LinkedList/summary-quiz/attach/Pasted image 20251223061040.png",
+    "LinkedList/summary-quiz/attach/Pasted image 20251223061700.png",
+    "LinkedList/summary-quiz/attach/Pasted image 20251223061711.png",
+    "LinkedList/summary-quiz/attach/Pasted image 20251223061723.png",
+    "LinkedList/summary-quiz/attach/Pasted image 20251223061740.png",
+    "LinkedList/summary-quiz/quiz.md",
+    "Pasted image 20251223061740.png",
+    "Pasted image 20251223061723.png",
+    "Pasted image 20251223061711.png",
+    "Pasted image 20251223061700.png",
+    "Pasted image 20251223061040.png",
+    "Array/summary.md",
+    "Array/summary/summary.md",
+    "Array/quiz.md"
+  ]
+}

@@ -49,7 +49,7 @@ This roadmap is designed for <strong>deep understanding</strong>, not speed. Eac
 </div>
 
 
-<h2 style="margin-top:40px; border-bottom:2px solid #e5e7eb; padding-bottom:5px;">Directory Structure 📁 </h2>
+<h2 style="margin-top:40px; border-bottom:2px solid #e5e7eb; padding-bottom:5px;">Directory Structure </h2>
 
 <pre style="background:#0f172a; color:#e5e7eb; padding:15px; border-radius:6px; overflow-x:auto; font-size:0.9rem;">
 Data-Structures-Roadmap/
@@ -125,7 +125,7 @@ Data-Structures-Roadmap/
 </tr>
 <tr>
 <td style="padding:10px; border:1px solid #ccc;">Ahmed Hamed</td>
-<td style="padding:10px; border:1px solid #ccc;"><a href="https://github.com/xe-ice" target="_blank">GitHub Profile</a></td>
+<td style="padding:10px; border:1px solid #ccc;"><a href="https://github.com/nvxist" target="_blank">GitHub Profile</a></td>
 </tr>
 </tbody>
 </table>

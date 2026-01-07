@@ -14,7 +14,7 @@ Note:
 	- beginning 
 	- At a given pos
 	- At the end 
-### insertion 
+### insertion  
 
 ![[Pasted image 20251222082723.png]]
 
